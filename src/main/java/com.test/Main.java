@@ -1,10 +1,5 @@
 package com.test;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import static com.sun.xml.internal.stream.writers.WriterUtility.SPACE;
-
 public class Main {
 
     private static String test;
